@@ -1,4 +1,16 @@
-.App {
+.input-style{
+  border: 2px solid grey;
+  border-radius: 6px;
+}
+.w-73{
+  width: 73%;
+}
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +47,6 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+
